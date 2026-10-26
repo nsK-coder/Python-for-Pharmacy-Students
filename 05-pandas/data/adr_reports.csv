@@ -1,0 +1,16 @@
+drug,adverse_event,age,outcome,seriousness
+Paracetamol,Rash,34,Recovered,Non-serious
+Amoxicillin,Diarrhoea,45,Recovered,Non-serious
+Paracetamol,Nausea,28,Recovered,Non-serious
+Ibuprofen,Stomach pain,52,Recovered,Non-serious
+Amoxicillin,Rash,61,Hospitalised,Serious
+Metformin,Nausea,,Recovered,Non-serious
+Paracetamol,Rash,34,Recovered,Non-serious
+Atorvastatin,Muscle pain,67,Recovering,Serious
+Ibuprofen,Dizziness,39,Recovered,Non-serious
+Amoxicillin,Diarrhoea,45,Recovered,Non-serious
+Metformin,Lactic acidosis,58,Hospitalised,Serious
+Paracetamol,Liver injury,71,Hospitalised,Serious
+Amoxicillin,Rash,23,Recovered,Non-serious
+Atorvastatin,Muscle pain,67,Recovering,Serious
+Ibuprofen,Stomach pain,44,Recovered,Non-serious
