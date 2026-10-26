@@ -34,3 +34,6 @@ Type a weight (for example `60`) when it asks, and press Enter.
    example: "Dose for Rahul: 900 mg".
 
 Solutions are in [solutions/](solutions/) — try first, then peek.
+
+Complete lesson guide (PDF, with walkthrough, verified outputs, mistakes, exercises,
+solutions and knowledge check): [Lesson-1-Whole-Lesson.pdf](Lesson-1-Whole-Lesson.pdf)
