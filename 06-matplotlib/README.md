@@ -46,8 +46,9 @@ then download the PNG.)
    half-strength dose) and a legend (`plt.legend(["Full dose",
    "Half dose"])`).
 3. Estimate the AUC (area under the curve) with the trapezoidal rule
-   (hint: `numpy.trapz(df["concentration_mg_L"], df["time_hours"])` —
+   (hint: `numpy.trapezoid(df["concentration_mg_L"], df["time_hours"])` —
    you will need `pip install numpy`, or use pandas' own tools).
+   (On older NumPy 1.x the same function is called `numpy.trapz`.)
 
 Solutions are in [solutions/](solutions/) — try first, then peek.
 

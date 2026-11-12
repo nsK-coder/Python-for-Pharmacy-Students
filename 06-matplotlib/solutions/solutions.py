@@ -42,5 +42,5 @@ import pandas as pd
 from pathlib import Path
 here = Path(__file__).parent.parent
 df = pd.read_csv(here / "data" / "concentration_time.csv")
-auc = np.trapz(df["concentration_mg_L"], df["time_hours"])
+auc = np.trapezoid(df["concentration_mg_L"], df["time_hours"])
 print("AUC:", round(auc, 2), "mg*h/L")
